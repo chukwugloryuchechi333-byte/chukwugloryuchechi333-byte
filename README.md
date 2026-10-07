@@ -1,5 +1,4 @@
-chukwugloryuchechi333-byte
-My profile README
+
 # Hi, I'm Chukwu Glory Uchechi 👋
 ### Future AI Engineer @ NVIDIA / Tesla
 
