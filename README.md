@@ -1,4 +1,4 @@
-
+![Banner](./IMG-20261007-WA1371.jpg)
 # Hi, I'm Chukwu Glory Uchechi 👋
 ### Future AI Engineer @ NVIDIA / Tesla
 
