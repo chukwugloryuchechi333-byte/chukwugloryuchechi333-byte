@@ -1,17 +1,29 @@
-![Banner](./IMG-20261007-WA1371.jpg)
-# Hi, I'm Chukwu Glory Uchechi 👋
-### Future AI Engineer @ NVIDIA / Tesla
+# 🤖 Glory's AI Empire | From Ebonyi to NVIDIA
 
-My mission is to join **NVIDIA or Tesla** as a Computer Vision Engineer building self-driving cars.
+I am **Chukwu Glory Uchechi** - 17yo Future AI Engineer from Ebonyi, Nigeria 🇳🇬
 
-### 🚀 About Me
-- 🔭 17yo from Ebonyi, Nigeria
-- 🌱 Currently learning Python, OpenCV, AI
-- 🎯 Dream: Build Vision for Self-Driving Cars
-- 📫 chukwugloryuchechi333@gmail.com
+### 🚀 My Mission
+To join **NVIDIA or Tesla** as a Computer Vision Engineer building self-driving cars.
 
-### 🛠️ Skills
-Python | OpenCV | NumPy | GitHub
+### About Me
+- 17yo from Ebonyi, Nigeria
+- Currently learning Python & AI
+- Building 15+ AI projects on Pydroid 3
+- Dream: Put Ebonyi on the world tech map
 
----
-⭐ From Ebonyi to NVIDIA & Tesla
+### Projects (15)
+- ai_empire.py - My first AI kingdom
+- ai_chatbot.py - AI chatbot
+- ai_predictor.py - Salary predictor with ML
+- ai_bank.py - AI banking system
+- ai_data_analyzer.py - Data analysis AI
+- Calculator.py - Smart calculator
+- + 9 more AI projects!
+
+### Tech Stack
+Python | AI Logic | Machine Learning | Computer Vision
+
+### Goal
+"To become an AI Engineer at NVIDIA & Tesla"
+
+⭐ Star this repo if you believe in young African builders!
